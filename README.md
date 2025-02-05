@@ -17,4 +17,4 @@ Amigo Secreto es una aplicación web sencilla que permite a los usuarios ingresa
 ## Cómo Usar
 1. Clona este repositorio en tu máquina local.
    ```bash
-   git clone https://github.com/tu_usuario/amigo-secreto.git
+   git clone https://github.com/Dago-R/Juego_amigo_secreto.git
